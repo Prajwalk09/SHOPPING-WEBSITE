@@ -9,6 +9,8 @@
 
 -> It is a shopping website specializing in Apple products.
 
+-> Upon running the code, a new window opens displaying the website.
+
 -> It is a user friendly and working website and the colors have been given to make it look more appealing to the audience.
 
 -> It targets shopping enthusiasts and the quantity of products they can add to their cart is infinite.
