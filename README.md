@@ -1,7 +1,7 @@
 # SHOPPING-WEBSITE
 ## DLITHE INTERNSHIP PROJECT
 
-# TECHNICAL INSTRUCTIONS
+## TECHNICAL INSTRUCTIONS
 
 -> The code of the website is uploaded as txt file.
 
